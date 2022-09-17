@@ -128,8 +128,8 @@ p {
     display: none;
   }
   .project-card-container{
-    margin: 20px auto;
-
+    margin: 10px auto;
+width: 100%;
   }
     h1{
         font-size: 46px;
