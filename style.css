@@ -62,8 +62,8 @@ p {
   transition: all 0.2s;
 }
 .contact-link:hover{
-  opacity: 0.9;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 .about-link {
@@ -86,6 +86,7 @@ p {
 .about-info {
   padding-top: 50px;
 }
+
 .about-paragraphs {
   display: flex;
   margin: 30px 0;
@@ -119,9 +120,7 @@ p {
 .project-wrapper{
   margin-top: 50px;
 }
-.project-card-container{
-  margin-top: 20px;
-}
+
 @media(max-width: 576px) {
   .project-wrapper{
     text-align: center;
