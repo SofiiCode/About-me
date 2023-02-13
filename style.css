@@ -104,12 +104,13 @@ p {
   text-decoration: none;
 }
 .photo-container{
- max-width: 80%;
- 
+
 }
 .photo{
-  max-width: 80%;
+ display: block;
+  width: 250px;
 border-radius: 65px 0px 65px 0px;
+margin: 0 auto;
 }
 .email-link:hover {
   text-decoration: underline;
