@@ -103,8 +103,13 @@ p {
   font-size: 28px;
   text-decoration: none;
 }
-.photo{
+.photo-container{
+ max-width: 80%;
  
+}
+.photo{
+  max-width: 80%;
+border-radius: 65px 0px 65px 0px;
 }
 .email-link:hover {
   text-decoration: underline;
