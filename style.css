@@ -103,7 +103,9 @@ p {
   font-size: 28px;
   text-decoration: none;
 }
-
+.photo{
+ 
+}
 .email-link:hover {
   text-decoration: underline;
 }
