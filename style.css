@@ -103,13 +103,10 @@ p {
   font-size: 28px;
   text-decoration: none;
 }
-.photo-container{
-
-}
 .photo{
  display: block;
   width: 250px;
-border-radius: 65px 0px 65px 0px;
+border-radius: 85px 0px 85px 0px;
 margin: 0 auto;
 }
 .email-link:hover {
