@@ -7,6 +7,17 @@
 body {
   margin: 80px 0;
 }
+.box{
+
+}
+#bp-web-widget{
+  margin-top: 70px;
+  
+}
+.bp-widget-side{
+  
+  height: 80%!important;
+}
 
 h1,
 h2,
