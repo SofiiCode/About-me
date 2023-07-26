@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/</loc>
+  <lastmod>2023-05-05T15:10:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=GetRHContact</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=GetRBSontact</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/Tutorials.jsp</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=sfp</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=assessmentType</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=mfhc</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=RBSmenu</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=ONERD</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=WEP</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=WEPD</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=CFG</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/EligibilityUserGuide.pdf</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=sfhprev</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/incomeEligibilityAction.do?pageAction=state</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=sfpd</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=sfhprevd</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/assessment/AssessmentHelp_SFH.jsp</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=mfhprev</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/discoveryToolAction.do?pageAction=first</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=rbs</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=irp</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=ONERDMAP</loc>
+  <lastmod>2023-07-26T06:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
